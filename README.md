@@ -39,7 +39,13 @@ Fake News and Job Detection
 - Secure password generation
 - Flask-based application
 
-### 4. AI Story & Animation Studio
+
+### 4. Lecture Quiz Generator
+- Generates quizzes from lecture materials.
+- Mini project developed as part of academic work.
+.
+
+### 5. AI Story & Animation Studio
 - AI-powered story generation
 - Scene creation and animation workflow
 - Creative application development
